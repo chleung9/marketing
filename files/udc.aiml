@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+  <category>
+    <pattern>^ ADVERTISING ^</pattern>
+    <template>The paid promotion of goods, services, companies, or ideas by an identified sponsor. Marketers see advertising as part of an overall promotional strategy. </template>
+  </category>
+
+  <category>
+    <pattern>^ ADVERTISING CAMPAIGN ^</pattern>
+    <template>A series of advertisements, commercials, and related promotional materials that share a single idea or theme. Designed to be used simultaneously as part of a coordinated advertising plan. </template>
+  </category>
+
+  <category>
+    <pattern>^ ADVERTORIAL ^</pattern>
+    <template>An advertisement in a print publication that has the appearance of a news article. </template>
+  </category>
+
+  <category>
+    <pattern>^ AFFILIATE MARKETING ^</pattern>
+    <template>Considered a widespread method of website promotion, affiliate marketing rewards an affiliate for every visitor, subscriber and/or customer provided through its efforts. It is a modern variation of the practice of paying finder�s-fees to individuals who introduce new clients to a business. </template>
+  </category>
+
+  <category>
+    <pattern>^ AFFINITY MARKETING ^</pattern>
+    <template>Affinity marketing targets promotional efforts toward one group or category of clients based upon established buying patterns. The marketing offer is communicated via e-mail promotions, online, or offline advertising. </template>
+  </category>
+
+  <category>
+    <pattern>^ ANGLE ^</pattern>
+    <template>The viewpoint from which a story is told. Publicists, reporters, and journalists all use a specific angle, or approach, to communicate their story to a targeted audience. Typically, it is not possible to write about subjects in their entirety. The �angle� narrows the focus of the story to communicate a clear, yet limited, perspective of an issue, event, etc. </template>
+  </category>
+
+  <category>
+    <pattern>^ BILLBOARD ^</pattern>
+    <template>(1) An outdoor sign or poster, which is typically displayed on the sides of buildings or alongside highways; (2) An introductory list of program/sponsor highlights that appears at the beginning or end of a television show or magazine. </template>
+  </category>
+
+  <category>
+    <pattern>^ BLOG ^</pattern>
+    <template>Short for weblog, a blog is a web-based publication consisting primarily of periodic articles and commentaries by a specific author. Companies large and small use blogs to stay in touch with a much larger audience. </template>
+  </category>
+
+  <category>
+    <pattern>^ BOILERPLATE ^</pattern>
+    <template>Often found in press releases, a boilerplate is standard verbiage that gives a brief history of the organization(s) and is located at the bottom of all company-issued releases. The term comes from the early 1900s, when steel was issued in steam boilers, the boilerplate text is �strong as steel�. </template>
+  </category>
+
+  <category>
+    <pattern>^ BRAND IDENTITY ^</pattern>
+    <template>The outward expression of the brand, which is the symbolic embodiment of all information connected with a product or service, including its name and visual appearance. The brand�s identity is its fundamental means of consumer recognition and differentiates the brand from competitors. </template>
+  </category>
+
+  <category>
+    <pattern>^ BROADCAST MEDIA ^</pattern>
+    <template>Communication outlets that utilize air space, namely television and radio. Advertising in broadcast media often targets a specific demographic group, is designed to create buzz, and can also be used as a strategic branding tool. </template>
+  </category>
+
+  <category>
+    <pattern>^ BROADSHEET ^</pattern>
+    <template>Standard size newspaper (i.e. New York Times) which is characterized by long vertical pages (Typical size: 16 x 24 inches). Another popular newspaper format is the tabloid. </template>
+  </category>
+
+  <category>
+    <pattern>^ BUZZWORD ^</pattern>
+    <template>Considered hip and trendy, a buzzword is a word or phrase that takes on added significance through repetition or special usage. Although buzzwords are widely used, they rarely have definitive meanings. </template>
+  </category>
+
+  <category>
+    <pattern>^ BYLINE ^</pattern>
+    <template>The name, and often the position, of the writer of the article. Bylines are traditionally placed between the headline and the text of the article, or at the bottom of the page to leave more room for graphical elements around the headline. </template>
+  </category>
+
+  <category>
+    <pattern>^ CIRCULATION ^</pattern>
+    <template>In the media industry, circulation typically refers to the number of copies a print publication sells or distributes. </template>
+  </category>
+
+  <category>
+    <pattern>^ CLICK-THROUGH RATE ^</pattern>
+    <template>The percentage of consumers receiving an e-mail who will click on an embedded URL in the message to reach a specific landing page. </template>
+  </category>
+
+  <category>
+    <pattern>^ COLLATERAL MATERIALS ^</pattern>
+    <template>A wide range of documents including catalogs, brochures, counter displays and sell sheets that companies use to promote themselves to their target audience. </template>
+  </category>
+
+  <category>
+    <pattern>^ COMMUNICATIONS AUDIT ^</pattern>
+    <template>The systematic appraisal of all of an organization�s communications. A communications audit analyzes all messages sent out by the organization and may also study messages received by audiences about the organization. </template>
+  </category>
+
+  <category>
+    <pattern>^ CONCEPT STORY ^</pattern>
+    <template>Feature story designed to pique the interest of a particular demographic audience. </template>
+  </category>
+
+  <category>
+    <pattern>^ CONTENT ^</pattern>
+    <template>The design, text, and graphical information that forms a webpage. </template>
+  </category>
+
+  <category>
+    <pattern>^ CONTENT MARKETING ^</pattern>
+    <template>A process that uses intellectual property to build trust between an organization and its constituents. </template>
+  </category>
+
+  <category>
+    <pattern>^ CONVERSION RATE ^</pattern>
+    <template>The calculation of the number of viewers to qualified business or sales of your online marketing ad/page. </template>
+  </category>
+
+  <category>
+    <pattern>^ CO-OP ADVERTISING ^</pattern>
+    <template>A joint advertising program by which ad costs are shared between two or more parties. Many national manufacturers offer these programs to their wholesalers or retailers, as a means of encouraging these parties to promote goods. The manufacturer typically reimburses the local advertiser in part or in full for their placement of ads (print and broadcast). </template>
+  </category>
+
+  <category>
+    <pattern>^ CORPORATE FACT SHEET ^</pattern>
+    <template>A document describing a company�s principles, services, philosophy, and fees, along with all company contact information � address, telephone, fax, and e-mail. </template>
+  </category>
+
+  <category>
+    <pattern>^ CORPORATE IDENTITY AND POSITIONING ^</pattern>
+    <template>THE PHYSICAL MANIFESTATION OF THE brand, including logo and supporting devices, color palettes, typefaces, page layouts, and other means of maintaining visual continuity and brand recognition. Positioning defines the application of the identity. </template>
+  </category>
+
+  <category>
+    <pattern>^ COST PER THOUSAND (CPM) ^</pattern>
+    <template>This is an industry standard which represents the cost per 1000 people reached during the course of an advertising campaign. The CPM model refers to advertising purchased on the basis of impression opposed to pay-for-performance options (price per click, registration). (Note: �M� represents thousand in Roman numerology). </template>
+  </category>
+
+  <category>
+    <pattern>^ CRISIS COMMUNICATION ^</pattern>
+    <template>Communication that organizations use when experiencing a crisis. It is differentiated from the standard messages communicated by the organization. </template>
+  </category>
+
+  <category>
+    <pattern>^ CUSTOMER RELATIONSHIP MANAGEMENT (CRM) ^</pattern>
+    <template>a system that manages a company�s interactions with existing and potential customers. </template>
+  </category>
+
+  <category>
+    <pattern>^ DAYPART ^</pattern>
+    <template>Different time segments of the day utilized by broadcast media to sell advertising. Advertising costs vary by the daypart selected. Time periods of the broadcast day include Daytime, Early Fringe, Prime Time, (television) and Morning Drive, Midday, Afternoon, Drive, (radio). </template>
+  </category>
+
+  <category>
+    <pattern>^ DEMOGRAPHICS ^</pattern>
+    <template>Selected characteristics of a population, such as ethnicity, income, and education that define a particular consumer population. </template>
+  </category>
+
+  <category>
+    <pattern>^ DIRECT MAIL ^</pattern>
+    <template>A form of marketing that attempts to send its messages directly to consumers using �addressable� media, such as mail. Direct mail may include a marketing letter, brochure, or postcard. </template>
+  </category>
+
+  <category>
+    <pattern>^ EMAIL MARKETING ^</pattern>
+    <template>A form of direct marketing that uses electronic mail as a means of communicating messages to an audience. In its broadest sense, every email sent to a potential or current customer could be considered e-mail marketing. </template>
+  </category>
+
+  <category>
+    <pattern>^ FACEBOOK ^</pattern>
+    <template>A free social networking website where users can create profiles and join networks organized by school, city, workplace and region to connect, keep in touch and interact with other users. Facebook is the largest social network in the world and is also used by businesses. </template>
+  </category>
+
+  <category>
+    <pattern>^ FCC ^</pattern>
+    <template>Federal Communications Commission; Established under the U.S. Communications Act of 1934, the FCC is a government agency that regulates broadcast and electronic communications. The president of the United States appoints its board of commissioners. </template>
+  </category>
+
+  <category>
+    <pattern>^ FTC ^</pattern>
+    <template>Federal Trade Commission; a Federal agency whose purpose is to encourage free enterprise and prevent restraint of trade and monopolies. This organization maintains the primary responsibility for regulating national advertising. </template>
+  </category>
+
+  <category>
+    <pattern>^ FORUMS ^</pattern>
+    <template>Social message boards or online discussion sites. </template>
+  </category>
+
+  <category>
+    <pattern>^ FREE-STANDING INSERTS (FSI) ^</pattern>
+    <template>An advertisement in a print publication which is not bound and separated by any editorial. FSI�s are typically distributed with newspapers, magazines, and catalogs. </template>
+  </category>
+
+  <category>
+    <pattern>^ FREQUENCY ^</pattern>
+    <template>The estimated number of times individuals are exposed to an advertising message. </template>
+  </category>
+
+  <category>
+    <pattern>^ FULL POSITION AD ^</pattern>
+    <template>An ad bordered by reading matter in a newspaper, increasing the likelihood that consumers will read the ad. </template>
+  </category>
+
+  <category>
+    <pattern>^ GEOFENCING ^</pattern>
+    <template>allows businesses to market to target audiences who enter a clearly defined location. This could include an event location, specific office building, tourist destination, etc. </template>
+  </category>
+
+  <category>
+    <pattern>^ GHOSTWRITER ^</pattern>
+    <template>As a writer with no byline, ghostwriters usually work without the recognition that credited authors receive. They often get flat fees for their work without the benefit of royalties. </template>
+  </category>
+
+  <category>
+    <pattern>^ GRAPHIC DESIGNER ^</pattern>
+    <template>The person who arranges image and text to communicate a specific message. Graphic design may be applied in any media, such as print, digital media, motion pictures, animation, product decoration, packaging, and signs. </template>
+  </category>
+
+  <category>
+    <pattern>^ GRAND OPENING EVENT ^</pattern>
+    <template>A promotional activity held by newly established businesses to notify the public of their location and products/services available to the community. </template>
+  </category>
+
+  <category>
+    <pattern>^ HORIZONTAL PUBLICATIONS ^</pattern>
+    <template>Business publications intended to appeal to people of similar interests in a variety of companies or industries. </template>
+  </category>
+
+  <category>
+    <pattern>^ IMAGE ADVERTISING ^</pattern>
+    <template>Advertising that is directed at the creation of a specific image or perception of a company, product, or service. The unique personality (i.e. luxury, reliability) is promoted as distinguished from advertising directed at the specific attributes of the entity. Advertisers believe brand image advertising is effective in leading consumers to select one brand over another. </template>
+  </category>
+
+  <category>
+    <pattern>^ INBOUND MARKETING ^</pattern>
+    <template>Unlike traditional �push� marketing, Inbound Marketing pulls in audiences by offering information that they are already interested in. This information is often available as a downloadable paper or e-book and these leads may be nurtured through an online marketing program that aims to convert prospects into customers. </template>
+  </category>
+
+  <category>
+    <pattern>^ INSTAGRAM ^</pattern>
+    <template>a free social media channel for sharing photos and short videos. Many bloggers and influencers use Instagram to maximize their reach and engage their audiences. </template>
+  </category>
+
+  <category>
+    <pattern>^ INTERNET ^</pattern>
+    <template>The Internet is the publicly available worldwide system of interconnected computer networks that transmit data. Made up of thousands of smaller commercial, academic, domestic, and government networks, the Internet carries various information and services, such as electronic mail, online chat, web pages, and other documents of the World Wide Web. </template>
+  </category>
+
+  <category>
+    <pattern>^ INSERTION ORDER ^</pattern>
+    <template>A formal authorization to place an ad campaign, which identifies the specific print publication, run dates, and associated fees. This serves as a contract between the publisher selling the advertising space and the media buyer. </template>
+  </category>
+
+  <category>
+    <pattern>^ LANGUAGE PLATFORM ^</pattern>
+    <template>foundational messaging for your brand. A language platform identifies key message points, establishes a messaging hierarchy and demonstrates how various messages can be tied together across marketing channels. </template>
+  </category>
+
+  <category>
+    <pattern>^ LEAD ^</pattern>
+    <template>Details about a potential customer, which may be gained through an Inbound Marketing program. </template>
+  </category>
+
+  <category>
+    <pattern>^ LINKEDIN ^</pattern>
+    <template>A business-oriented social networking site designed to connect professionals worldwide, enabling them to collaborate and share expertise. </template>
+  </category>
+
+  <category>
+    <pattern>^ LOGO ^</pattern>
+    <template>A logo, or logotype, is the graphic element of a trademark or brand, and is set in a special typeface/font and arranged in a particular way. The shape, color, and typeface should all be distinctly different from others in a similar market. </template>
+  </category>
+
+  <category>
+    <pattern>^ MARKETING ^</pattern>
+    <template>The craft of linking the producers of a product or service with customers, both existing and potential. Marketing creates, communicates, and delivers value to customers in ways that benefit the organization and its stakeholders. </template>
+  </category>
+
+  <category>
+    <pattern>^ MARKETING CAMPAIGN ^</pattern>
+    <template>A specific, defined series of activities used in marketing a product or service. The future estimated effects of a new marketing campaign must be included in demand and resource planning. </template>
+  </category>
+
+  <category>
+    <pattern>^ MARKETING PLAN ^</pattern>
+    <template>A strategic plan that details the actions necessary to achieve specified marketing objectives. It can be for a product, service, brand, or a product line. Many marketing plans cover one year (referred to as an annual marketing plan), but may cover up to 5 years. </template>
+  </category>
+
+  <category>
+    <pattern>^ MARKET RESEARCH ^</pattern>
+    <template>The process of systematically gathering, recording, analyzing, and interpreting data pertaining to the company�s market, customers, and competitors with the goal of improving marketing decisions. </template>
+  </category>
+
+  <category>
+    <pattern>^ MARKET SHARE ^</pattern>
+    <template>A company�s sales, in terms of dollars or units, in relation to total industry sales. It is typically expressed as a percentage and can be represented as brand, line, or company. </template>
+  </category>
+
+  <category>
+    <pattern>^ MEDIA ADVISORY ^</pattern>
+    <template>A written document sent to local media outlets about an upcoming press conference, briefing, or other event. A media advisory usually includes the basic details about the event and its schedule and location. The goal of a media advisory is not to tell the complete story, but instead to entice media to attend and learn more. </template>
+  </category>
+
+  <category>
+    <pattern>^ MEDIA KIT ^</pattern>
+    <template>A media kit, sometimes called a press kit, is a set of promotional and informative materials about an organization or event. It includes company information, specifically a letter of introduction, press releases, news articles, and a company profile. </template>
+  </category>
+
+  <category>
+    <pattern>^ MEDIA INTERVIEW ^</pattern>
+    <template>A recorded conversation, usually conducted by a reporter, in which an individual provides information and expertise on a certain subject for use in the reporter�s article. </template>
+  </category>
+
+  <category>
+    <pattern>^ MEDIA OUTLET ^</pattern>
+    <template>A publication or broadcast program that provides news and feature stories to the public through various distribution channels. Media outlets include newspapers, magazines, radio, television, and the Internet. </template>
+  </category>
+
+  <category>
+    <pattern>^ MEDIA PLAN ^</pattern>
+    <template>A plan designed to target the proper demographics for an advertising campaign through the use of specific media outlets. </template>
+  </category>
+
+  <category>
+    <pattern>^ MEDIA PLANNING AND BUYING ^</pattern>
+    <template>The role of an advertising agency in finding the most appropriate media products for each client and negotiating/buying �space� based upon a predetermined budget. </template>
+  </category>
+
+  <category>
+    <pattern>^ MEDIA POLICY ^</pattern>
+    <template>Organizational instructions as to how company representatives will communicate with the media. </template>
+  </category>
+
+  <category>
+    <pattern>^ MEDIA RELATIONS ^</pattern>
+    <template>A practice in which people converse with the press in the hopes of securing interviews, placing quotes, and fostering relationships between individuals and organizations and the media. </template>
+  </category>
+
+  <category>
+    <pattern>^ MEDIA TOUR ^</pattern>
+    <template>A series of engagements, or a single event to promote a certain organization, product, or service to members of the public press. Common resources for a media tour include a press kit, presentation material, and a representative (internal or external) to interact with the press. </template>
+  </category>
+
+  <category>
+    <pattern>^ MEDIA TRAINING ^</pattern>
+    <template>Providing individuals with guidelines, strategies, and skills to work efficiently and effectively with media for public relations purposes. </template>
+  </category>
+
+  <category>
+    <pattern>^ MOBILE MARKETING ^</pattern>
+    <template>marketing that reaches target audiences through SMS, MMS and mobile applications via a phone or tablet. </template>
+  </category>
+
+  <category>
+    <pattern>^ MOBILE MARKETING RESEARCH ^</pattern>
+    <template>phone-based collection of data. Mobile research is economical and allows brands to gather consumer insights in real-time. </template>
+  </category>
+
+  <category>
+    <pattern>^ nab ^</pattern>
+    <template>National Association of Broadcasters; The NAB is a trade association whose membership consists of more than 8,300 free, local radio and television stations. </template>
+  </category>
+
+  <category>
+    <pattern>^ NEW PRODUCT LAUNCH ^</pattern>
+    <template>The introduction of new merchandise to the general public. This can be executed through a special event, ad campaign or PR push. </template>
+  </category>
+
+  <category>
+    <pattern>^ NEWS CONFERENCE ^</pattern>
+    <template>A media event staged by an individual or group wishing to attract media coverage for an item of news value. Television stations and networks especially value news conferences as source of �news� footage. </template>
+  </category>
+
+  <category>
+    <pattern>^ NEWSLETTER ^</pattern>
+    <template>A publication sent out at specific intervals in print or via e-mail and generally about one main subject or topic that is of interest to its subscribers. </template>
+  </category>
+
+  <category>
+    <pattern>^ NEWSWIRE ^</pattern>
+    <template>An electronic data stream sent via satellite that delivers the latest news directly to print, broadcast, and online media databases across the world. Many organizations submit press releases to a newswire service to alert the world�s media about their latest news. </template>
+  </category>
+
+  <category>
+    <pattern>^ NIELSEN RATING ^</pattern>
+    <template>A measurement of the percentage of U.S. television households tuned to a program for a designated time period. Similar to Arbitron, A.C. Nielsen is a marketing/ media research company that conducts diary surveys to measure television-viewing habits. </template>
+  </category>
+
+  <category>
+    <pattern>^ OPTIMIZATION ^</pattern>
+    <template>A procedure used to make a website as effective or functional as possible by allowing it to run well and provide a productive user experience. </template>
+  </category>
+
+  <category>
+    <pattern>^ OUTDOOR ADVERTISING ^</pattern>
+    <template>A form of advertising (i.e. billboards, movie kiosks), which promotes a product or service in high-traffic outside locations. </template>
+  </category>
+
+  <category>
+    <pattern>^ PARTNERSHIP MARKETING ^</pattern>
+    <template>Aligning one�s business with other organizations and businesses to equally expose partner brands to one another�s customers. Typically, partnerships are formed when two or more companies find value for their customers in each others products and/or services. </template>
+  </category>
+
+  <category>
+    <pattern>^ PASS-ALONG RATE ^</pattern>
+    <template>The number of times a received document (article, newsletter, brochure, report, etc.) is shared with other individuals. This number is higher than the circulation numbers because it is an estimate of how many readers view the same copy rather than how many copies are distributed. </template>
+  </category>
+
+  <category>
+    <pattern>^ PERSONAL BRANDING ^</pattern>
+    <template>the intentional development of a person�s image. Personal brands showcase the attributes that make a person unique and can help to define individuals as thought leaders, innovators and more. </template>
+  </category>
+
+  <category>
+    <pattern>^ PITCH ^</pattern>
+    <template>A concise verbal (and sometimes visual) presentation of an idea for a story, generally made to a media outlet in the hope of attracting positive coverage for a client. </template>
+  </category>
+
+  <category>
+    <pattern>^ PODCASTING ^</pattern>
+    <template>The method of distributing multimedia files, such as audio programs or music videos, over the Internet using a syndication format and for playback on mobile devices and personal computers. The term podcast, like �radio�, can mean both the content and the method of delivery. </template>
+  </category>
+
+  <category>
+    <pattern>^ POINT-OF-PURCHASE (POP) DISPLAYS ^</pattern>
+    <template>Promotional piece typically placed in an area of a retail store where payment is made. </template>
+  </category>
+
+  <category>
+    <pattern>^ PRESS RELEASE ^</pattern>
+    <template>A press release or news release is a concise written statement distributed to targeted publications for the purpose of announcing something of news value. Typically, it is mailed, faxed, or e-mailed to assignment editors at newspapers, magazines, radio stations, television stations, and/or television networks. Commercial newswire services can be hired to distribute news releases. </template>
+  </category>
+
+  <category>
+    <pattern>^ PRINT MEDIA ^</pattern>
+    <template>A medium consisting of paper and ink, including newspapers, magazines, classifieds, circulars, journals, yellow pages, billboards, posters, brochures, and catalogs. </template>
+  </category>
+
+  <category>
+    <pattern>^ PRODUCT DIFFERENTIATION ^</pattern>
+    <template>Establishing clear distinction between products serving the same market segment. This is typically accomplished through effective positioning, packaging, and pricing strategies. </template>
+  </category>
+
+  <category>
+    <pattern>^ PROMOTIONAL MIX ^</pattern>
+    <template>Advertising, publicity, public relations, personal selling, and sales promotion used to promote a specific product or service. </template>
+  </category>
+
+  <category>
+    <pattern>^ PROMOTIONS ^</pattern>
+    <template>Communications activities, excluding advertising, that call attention to a product or service by creating incentives. Contests, frequent buyer programs, unique packaging, and coupons are all examples of tools commonly used in promotions. </template>
+  </category>
+
+  <category>
+    <pattern>^ PROOF ^</pattern>
+    <template>A paper rendering for the purpose of checking the quality and accuracy of the material to be printed. </template>
+  </category>
+
+  <category>
+    <pattern>^ PUBLIC RELATIONS ^</pattern>
+    <template>Considered both an art and a science, public relations is the management of communications between an organization and its key public to build, manage, and sustain its positive image. It is any activity used to influence media outlets to print stories that promote a favorable image of a company and its products or services. </template>
+  </category>
+
+  <category>
+    <pattern>^ PUBLIC RELATIONS PLAN ^</pattern>
+    <template>a document that details precise actions to achieve a public relations result. It can consist of target publications and media lists, planned events, community outreach, etc. </template>
+  </category>
+
+  <category>
+    <pattern>^ PUBLICITY ^</pattern>
+    <template>A component of the promotional mix, the deliberate attempt to manage the public�s perception of a subject; Whereas public relations is the management of all communication between the client and selected target audiences, publicity is the management of product- or brand-related communications between the firm and the general public. </template>
+  </category>
+
+  <category>
+    <pattern>^ QUALITATIVE RESEARCH ^</pattern>
+    <template>Research that is conducted to determine subjective information about a company, product or an ad campaign. Two methods of securing information include focus groups and in-depth interviews. </template>
+  </category>
+
+  <category>
+    <pattern>^ QUANTITATIVE RESEARCH ^</pattern>
+    <template>This method of market research utilizes sampling techniques (opinion polls, customer satisfaction surveys) to collect objective date. Numeric relevance of various kinds of consumer behavior, attitudes, or performance is tabulated and statistically analyzed. </template>
+  </category>
+
+  <category>
+    <pattern>^ REACH ^</pattern>
+    <template>Reach refers to the estimated number of individuals or households exposed to an advertising message during a specified period of time. It can be given as either a percentage or number of individuals. </template>
+  </category>
+
+  <category>
+    <pattern>^ READERSHIP ^</pattern>
+    <template>the total number of primary and pass-along readers of a publication </template>
+  </category>
+
+  <category>
+    <pattern>^ REPUTATION MANAGEMENT ^</pattern>
+    <template>The practice of correcting and/or enhancing the perception of a brand, individual, organization or business. Reputation Management programs are often executed following crises. </template>
+  </category>
+
+  <category>
+    <pattern>^ ROI ^</pattern>
+    <template>Return on Investment (ROI) seeks to find the actual or perceived future value of a marketing campaign. It is calculated as the ratio of the amount gained or lost, relative to the initial investment. </template>
+  </category>
+
+  <category>
+    <pattern>^ RSS ^</pattern>
+    <template>Really Simple Syndication (RSS) is a family of web feed formats specified in XML (a generic specification for data formats) and is used for web syndication. RSS feeds enable users to passively receive newly released content such as text, web pages, sound files, or other media. </template>
+  </category>
+
+  <category>
+    <pattern>^ SEARCH ENGINE OPTIMIZATION ^</pattern>
+    <template>The �art and science� of making web pages attractive and keyword-rich to improve its ranking in search engines. </template>
+  </category>
+
+  <category>
+    <pattern>^ SEASONALITY ^</pattern>
+    <template>The seasonal fluctuation in sales for services and products throughout the year. </template>
+  </category>
+
+  <category>
+    <pattern>^ SOCIAL ADVERTISING ^</pattern>
+    <template>ads run via platforms such as Facebook, Instagram and YouTube. Social advertising allows organizations to clearly define their audiences and offers several features to control the spend/budget. </template>
+  </category>
+
+  <category>
+    <pattern>^ SPEAKING ENGAGEMENTS ^</pattern>
+    <template>A planned event in which an individual educates the public on a particular topic. In marketing, speaking engagements are used to increase a client�s visibility and strengthen his or her reputation as an expert in the field. In addition, these opportunities give the speaker direct contact with his or her target audience. </template>
+  </category>
+
+  <category>
+    <pattern>^ SURVEY ^</pattern>
+    <template>An accumulation of a sample of data or opinions considered to be representative of a whole. Surveys are useful in public relations to support a client�s claim(s). They can be cited from other sources or funded by the client and conducted by a third party. </template>
+  </category>
+
+  <category>
+    <pattern>^ SOCIAL MEDIA ^</pattern>
+    <template>Web-based communication tools that allow users to interest in real-time. Social Media is a powerful tool for brands seeking feedback or support from customers as well as businesses and nonprofits seeking to cultivate new audiences. </template>
+  </category>
+
+  <category>
+    <pattern>^ SOCIAL MEDIA MONITORING ^</pattern>
+    <template>The process of monitoring and responding to statements regarding a business that occur in social media </template>
+  </category>
+
+  <category>
+    <pattern>^ SOCIAL NETWORKING ^</pattern>
+    <template>the practice of gaining social and/ or business contacts by making connections through individuals via meetings, conferences, tradeshows, social media, etc. </template>
+  </category>
+
+  <category>
+    <pattern>^ SYNDICATED PROGRAM ^</pattern>
+    <template>A radio or television program that is distributed in various markets by a specialized organization. </template>
+  </category>
+
+  <category>
+    <pattern>^ TABLOID ^</pattern>
+    <template>A newspaper that measures at 12� wide by 14� high and is approximately half the size of a standard newspaper. </template>
+  </category>
+
+  <category>
+    <pattern>^ TAGLINE ^</pattern>
+    <template>A meaningful phrase or slogan that sums up the tone and premise of an organization in a way that is memorable to the public. A tagline is often the theme for a larger campaign. </template>
+  </category>
+
+  <category>
+    <pattern>^ TARGET AUDIENCE ^</pattern>
+    <template>Groups in the community selected as the most appropriate for a particular marketing campaign or schedule. The target audience may be defined in demographic or psychographic terms, or a combination of both. </template>
+  </category>
+
+  <category>
+    <pattern>^ TEAR SHEETS ^</pattern>
+    <template>A page sent to the advertiser that serves as proof of the ad insertion. </template>
+  </category>
+
+  <category>
+    <pattern>^ TELEMARKETING ^</pattern>
+    <template>The process of using the telephone as a medium to sell goods and services directly to prospective customers. </template>
+  </category>
+
+  <category>
+    <pattern>^ TIKTOK ^</pattern>
+    <template>a social media channel for sharing short videos. </template>
+  </category>
+
+  <category>
+    <pattern>^ TRADE PUBLICATION ^</pattern>
+    <template>A trade publication often falls between a magazine and a journal, with articles focusing on information relating to a particular trade or industry. Trade publications typically contain heavy advertising content focused on the specific industry with little if any general audience advertising. </template>
+  </category>
+
+  <category>
+    <pattern>^ TRADEMARK ^</pattern>
+    <template>A trademark is a design, logo, or brand name registered for the exclusive use by a manufacturer to distinguish its product or service. </template>
+  </category>
+
+  <category>
+    <pattern>^ TWITTER ^</pattern>
+    <template>A free micro-blogging and social networking site that allows its users to post updates and read other users� posts, otherwise known as �tweets,� and which are limited to 140 characters. </template>
+  </category>
+
+  <category>
+    <pattern>^ UNIQUE SELLING PROPOSITION (USP) ^</pattern>
+    <template>the distinct features and benefits that differentiate a company�s product/service from the competition. </template>
+  </category>
+
+  <category>
+    <pattern>^ WEB DESIGNER ^</pattern>
+    <template>A web designer creates websites, often by using web-authoring software or an HTML editor to design the individual pages. In some cases, web designers may plan the overall look of a website, but leave the actual coding to a Webmaster. </template>
+  </category>
+
+  <category>
+    <pattern>^ YOUTUBE ^</pattern>
+    <template>a social media channel designed specifically for sharing videos. Users create their own branded �channels� on which to share videos and use optimized tags to help viewers find their content.</template>
+  </category>
+
+  <category>
+    <pattern>ABC</pattern>
+    <template>abc !!!</template>
+  </category>
+
+  <category>
+    <pattern>HELLO WORLD</pattern>
+    <template>Hello to you too!</template>
+  </category>
+ 
+  <category>
+    <pattern>HELLO *</pattern>
+    <template>Hello to you too <star index="1"/> !</template>
+  </category>
+
+</aiml>
